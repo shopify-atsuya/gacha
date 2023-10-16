@@ -1,0 +1,12 @@
+{
+  "cart": {
+    "buyerIdentity": {
+      "customer": {
+        "metafield": {
+          "type": "number_integer",
+          "value": "1"
+        }
+      }
+    }
+  }
+}

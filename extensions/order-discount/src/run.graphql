@@ -1,0 +1,12 @@
+query RunInput {
+  cart {
+    buyerIdentity {
+      customer {
+        metafield(namespace: "custom", key: "gacha_discount_next_time") {
+          type
+          value
+        }
+      }
+    }
+  }
+}
